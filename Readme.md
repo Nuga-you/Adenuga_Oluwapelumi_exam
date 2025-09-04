@@ -6,6 +6,6 @@ question 2
 i Completed the missing parts of the program below so that it keeps asking the user for a number and tells whether it is even or odd.
 
 question3
-i corrected the error
+i identified and corrected the error
 
 
