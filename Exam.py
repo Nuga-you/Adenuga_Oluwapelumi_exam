@@ -17,10 +17,10 @@ def division(a, b):
 
 
 print("*********Basic Calculator*******")
-print("1. Addition")
-print("2. Subtraction")
-print("3. Multiplication")
-print("4. Division")
+print("1. Addition (+)")
+print("2. Subtraction (-)")
+print("3. Multiplication(*)")
+print("4. Division n(/)")
 print("5. exit")
 
 # Running
